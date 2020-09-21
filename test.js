@@ -1,1 +1,1 @@
-const jugadores = ' hola';
+const jugadores = ' hola mundo';
